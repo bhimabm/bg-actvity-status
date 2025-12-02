@@ -1,5 +1,3 @@
-![Animated Background](https://i.imgur.com/ECZKmlO.gif)
-
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
